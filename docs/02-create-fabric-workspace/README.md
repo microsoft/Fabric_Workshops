@@ -5,16 +5,16 @@ In this exercise, you create a Microsoft Fabric Workspace that stores your Micro
 > [!NOTE]
 > In order to complete this exercise, you need the following:
 >
-> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans).
-> - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/ai-services).
-> - A Fabric subscription - [Create one for free](../01-create-fabric-capacity/README.md?id=create-a-microsoft-fabric-free-subscription).
-> - A Fabric capacity - [Create one in the Azure portal](../01-create-fabric-capacity/README.md?id=provision-a-resource-in-the-azure-portal).
+> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric/?WT.mc_id=academic-114547-leestott). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans/?WT.mc_id=academic-114547-leestott).
+> - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/ai-services/?WT.mc_id=academic-114547-leestott).
+> - A Fabric subscription - [Create one for free](../01-create-fabric-capacity/README.md?id=create-a-microsoft-fabric-free-subscription/?WT.mc_id=academic-114547-leestott).
+> - A Fabric capacity - [Create one in the Azure portal](../01-create-fabric-capacity/README.md?id=provision-a-resource-in-the-azure-portal/?WT.mc_id=academic-114547-leestott).
 
 ## Create a new workspace
 
 For this exercise, you will use Microsoft Fabric to create a workspace.
 
-1. Visit the [Microsoft Fabric studio](https://app.fabric.microsoft.com) in your browser and sign in.
+1. Visit the [Microsoft Fabric studio](https://app.fabric.microsoft.com/?WT.mc_id=academic-114547-leestott) in your browser and sign in.
     ![Screenshot from the Microsoft Fabric main page.](./media/fabric-main-page.png)
 
 2. Select one of the available experiences for you. For example, select **Synapse Data Science**.
@@ -47,4 +47,4 @@ For this exercise, you will use Microsoft Fabric to create a workspace.
 
 Congratulations! You have successfully created a fabric workspace and added your capacity to it. Now, you can enjoy the cool Microsoft Fabric capabilities.
 
-Go back to the [welcome page](../README.md)!
+Go back to the [welcome page](../README.md?WT.mc_id=academic-114547-leestott)!
