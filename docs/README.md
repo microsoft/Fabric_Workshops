@@ -4,7 +4,7 @@ Welcome to the Microsoft Fabric Workshops and Readiness!
 To get started please, follow these units for a smooth experience.
 
 > [!WARNING]
-> You need to follow these steps carefully! If you are not, the capacity might consume your entire budget in a few hours.
+> You need to follow these steps carefully! If you don't, the capacity might consume your entire budget in a few hours.
 
 ## 🗃️ Units
 
