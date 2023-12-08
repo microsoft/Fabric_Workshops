@@ -3,7 +3,7 @@
 
 ## Welcome to the Microsoft Fabric Workshops and Readiness! 
 
-![Fabric Logo](./docs/media/android-chrome-512x512.png)
+![Fabric Logo](./docs/media/android-chrome-192x192.png)
 
 This repository is a guide for Microsoft Fabric Workshops and Readiness. 
 
