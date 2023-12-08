@@ -5,8 +5,8 @@ In this exercise, you create a Microsoft Fabric Capacity that enables you to use
 > [!NOTE]
 > In order to complete this exercise, you need the following:
 >
-> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans).
-> - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/ai-services).
+> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric/?WT.mc_id=academic-114547-leestott). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans/?WT.mc_id=academic-114547-leestott).
+> - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/ai-services/?WT.mc_id=academic-114547-leestott).
 >
 
 In this exercise, you will:
@@ -18,7 +18,7 @@ In this exercise, you will:
 
 For this exercise, you will use Microsoft Fabric to create an account.
 
-1. Visit the [Microsoft Fabric](https://app.fabric.microsoft.com/singleSignOn) sign in page, enter your email and select **Submit**.
+1. Visit the [Microsoft Fabric](https://app.fabric.microsoft.com/singleSignOn/?WT.mc_id=academic-114547-leestott) sign in page, enter your email and select **Submit**.
     ![Screenshot from the Microsoft Fabric sign up page with the email input box and submit button highlighted in red boxes.](./media/fabric-sign-in.png)
 
 2. Wait for validation then, you will be redirected to the **Microsoft Fabric** experiences page.
@@ -28,7 +28,7 @@ For this exercise, you will use Microsoft Fabric to create an account.
 
 For this exercise, you will use Azure Portal to provision a resource.
 
-1. Visit the [Azure portal](https://portal.azure.com) in your browser and sign in.
+1. Visit the [Azure portal](https://portal.azure.com/?WT.mc_id=academic-114547-leestott) in your browser and sign in.
 
 2. Type *microsoft fabric* in the search bar at the top of the portal page and select **Microsoft Fabric** from the options that appear.
 
@@ -68,4 +68,4 @@ For this exercise, you will use Azure Portal to provision a resource.
 
 Congratulations! You have successfully registered for a free Microsoft Fabric subscription and provisioned your own Fabric capacity.
 
-Head over to the next exercise to learn about [creating a fabric workspace](../02-create-fabric-workspace/README.md)!
+Head over to the next exercise to learn about [creating a fabric workspace](../02-create-fabric-workspace/README.md?WT.mc_id=academic-114547-leestott)!
