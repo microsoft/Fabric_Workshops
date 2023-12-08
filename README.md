@@ -1,6 +1,6 @@
 # Microsoft Fabric Workshops and Readiness
 
-Welcome to the Microsoft Fabric Workshops and Readiness! To get started please, checkout the repository [GitHub pages](https://github.com/microsoft/Fabric_Workshops) website.
+Welcome to the Microsoft Fabric Workshops and Readiness! To get started please, checkout the repository [GitHub pages](https://microsoft.github.io/Fabric_Workshops) website.
 
 
 ## Contributing
