@@ -13,8 +13,8 @@ To get started please, follow these units for a smooth experience.
 | 00 | [Getting Started with **Microsoft Fabric**](./00-getting-started/README.md) | Introduction to Fabric, Capacity, Workspace. |
 | 01 | [Create a Microsoft Fabric **Capacity**](./01-create-fabric-capacity/README.md) | How to create a capacity using Microsoft Azure. |
 | 02 | [Create a Microsoft Fabric **Workspace**](./02-create-fabric-workspace/README.md) | How to create a workspace using Microsoft Fabric. |
-| 03 | [Choose your own Fabric Adventure](./03-labs-and-modules/README.md) | Different capabilities of Microsoft Fabric. |
-| 04 | [Microsoft Learn **Learning Paths**](./04-Microsoft-Learn-Resource/README.md) | How to create a workspace using Microsoft Fabric. |
+| 03 | [Choose your own **Fabric Lab**](./03-labs-and-modules/README.md) | Different capabilities of Microsoft Fabric. |
+| 04 | [Microsoft Learn **Learning Paths**](./04-microsoft-learn-resources/README.md) | Fabric learning paths on Microsoft Learn. |
 
 ## 🧹 Clean Up
 
