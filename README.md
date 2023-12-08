@@ -26,7 +26,7 @@ This unit shows how to create a workspace using Microsoft Fabric, which is a web
 This is a selection of labs that explore the different capabilities and features of Microsoft Fabric, such as data ingestion, data transformation, data visualization, and data analysis.
 
 
-To get started please, check out the repository [GitHub pages](https://microsoft.github.io/Fabric_Workshops) website.
+To get started please, check out the repository [GitHub pages](https://microsoft.github.io/Fabric_Workshops/?WT.mc_id=academic-114547-leestott) website.
 
 
 ## Contributing

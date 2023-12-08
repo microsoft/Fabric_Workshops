@@ -38,7 +38,7 @@ The permissions required to enable Fabric are either:
 - *Power Platform admin*
 - *Microsoft 365 admin*
 
-Fabric can be enabled at the tenant level or capacity level, meaning that it can be enabled for the entire organization or for specific groups of users. To learn how to enable Fabric for your organization, see the [documentation here](https://learn.microsoft.com/fabric/get-started/fabric-trial#administer-user-access-to-a-fabric-preview-trial).
+Fabric can be enabled at the tenant level or capacity level, meaning that it can be enabled for the entire organization or for specific groups of users. To learn how to enable Fabric for your organization, see the [documentation here](https://learn.microsoft.com/fabric/get-started/fabric-trial#administer-user-access-to-a-fabric-preview-trial/?WT.mc_id=academic-114547-leestott).
 
 > [!NOTE]
 > You can't modify or access the settings to enable Microsoft Fabric if you do not have any of the listed permissions. Please, contact your administrator to confirm that Microsoft Fabric is enabled in your tenant.
@@ -62,10 +62,10 @@ Workspaces must be in Premium capacity to use Fabric. If you don't have access t
 
 You may notice that Fabric experiences look similar to other Microsoft data offerings. Fabric is built on Power BI and Azure Data Lake Storage, and includes capabilities from Azure Synapse Analytics, Azure Data Factory, Azure Databricks, and Azure Machine Learning. What makes Fabric unique is that it brings these capabilities together in a single, SaaS, integrated experience without the need for access to Azure resources.
 
-Head over to the next exercise to learn about [creating a fabric capacity](../01-create-fabric-capacity/README.md)!
+Head over to the next exercise to learn about [creating a fabric capacity](../01-create-fabric-capacity/README.md/?WT.mc_id=academic-114547-leestott)!
 
 # Resources
 
-- [Introduction to end-to-end analytics using Microsoft Fabric](https://learn.microsoft.com/training/modules/introduction-end-analytics-use-microsoft-fabric/) | Microsoft Learn Training
-- [Data Analytics | Microsoft Fabric](https://www.microsoft.com/microsoft-fabric) | Microsoft
-- [What is Microsoft Fabric?](https://learn.microsoft.com/fabric/get-started/microsoft-fabric-overview) | Microsoft Learn Documentation
+- [Introduction to end-to-end analytics using Microsoft Fabric](https://learn.microsoft.com/training/modules/introduction-end-analytics-use-microsoft-fabric/?WT.mc_id=academic-114547-leestott) | Microsoft Learn Training
+- [Data Analytics | Microsoft Fabric](https://www.microsoft.com/microsoft-fabric/?WT.mc_id=academic-114547-leestott) | Microsoft
+- [What is Microsoft Fabric?](https://learn.microsoft.com/fabric/get-started/microsoft-fabric-overview/?WT.mc_id=academic-114547-leestott) | Microsoft Learn Documentation
