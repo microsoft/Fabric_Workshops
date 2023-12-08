@@ -1,6 +1,28 @@
 # Microsoft Fabric Workshops and Readiness
 
-Welcome to the Microsoft Fabric Workshops and Readiness! To get started please, checkout the repository [GitHub pages](https://microsoft.github.io/Fabric_Workshops) website.
+
+## Welcome to the Microsoft Fabric Workshops and Readiness! 
+
+![Image](docs/media/Fabric_logo.jpeg)
+
+This site is a guide for Microsoft Fabric Workshops and Readiness. 
+
+Here is a short summary of the resources and contents:
+
+## Getting Started with Microsoft Fabric: 
+This unit introduces the basic concepts and components of Microsoft Fabric, such as capacity, workspace, and Fabric.
+
+## Create a Microsoft Fabric Capacity: 
+This unit teaches how to create a capacity using Microsoft Azure, which is a cloud computing platform that provides the infrastructure for Microsoft Fabric.
+
+## Create a Microsoft Fabric Workspace: 
+This unit shows how to create a workspace using Microsoft Fabric, which is a web-based interface that allows users to access and manage their data and applications on Microsoft Fabric.
+
+## Choose your own Fabric Adventure: 
+This is a selection of labs which explores the different capabilities and features of Microsoft Fabric, such as data ingestion, data transformation, data visualization, and data analysis.
+
+
+To get started please, checkout the repository [GitHub pages](https://microsoft.github.io/Fabric_Workshops) website.
 
 
 ## Contributing
