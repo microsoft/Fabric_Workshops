@@ -1,6 +1,6 @@
-# Choose your Own Fabric Adventure
+# Choose your Own Fabric Lab
 
-Once you've created your capacity and workspace, choose your own Fabric adventure from this list to explore it's different capabilities:
+Once you've created your capacity and workspace, choose your own Fabric lab from this list to explore it's different capabilities:
 
 | Module | Lab |
 | ------ | ------ |
@@ -24,6 +24,6 @@ Monitor a data warehouse in Microsoft Fabric | [Monitor a data warehouse in Micr
 | Get started with Data Activator in Microsoft Fabric | [Use Data Activator in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/11-data-activator.html?WT.mc_id=academic-114547-leestott) |
 | Query data from a Kusto Query database in Microsoft Fabric | [Query data in KQL Database](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/12-query-data-in-kql-database.html?WT.mc_id=academic-114547-leestott) |
 
-**Or** [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/training/browse/?terms=Fabric&resource_type=learning%20path).
+**Or** [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/training/browse/?terms=Fabric&resource_type=learning%20path&WT.mc_id=academic-114547-leestott).
 
-Go back to the [welcome page](../README.md/?WT.mc_id=academic-114547-leestott)!
+*Go back to the [welcome page](../README.md?WT.mc_id=academic-114547-leestott)!*

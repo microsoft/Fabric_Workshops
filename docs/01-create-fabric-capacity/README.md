@@ -68,4 +68,4 @@ For this exercise, you will use Azure Portal to provision a resource.
 
 Congratulations! You have successfully registered for a free Microsoft Fabric subscription and provisioned your own Fabric capacity.
 
-Head over to the next exercise to learn about [creating a fabric workspace](../02-create-fabric-workspace/README.md?WT.mc_id=academic-114547-leestott)!
+*Head over to the next exercise to learn about [creating a fabric workspace](../02-create-fabric-workspace/README.md?WT.mc_id=academic-114547-leestott)!*

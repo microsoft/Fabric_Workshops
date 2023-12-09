@@ -47,4 +47,6 @@ For this exercise, you will use Microsoft Fabric to create a workspace.
 
 Congratulations! You have successfully created a fabric workspace and added your capacity to it. Now, you can enjoy the cool Microsoft Fabric capabilities.
 
-Go back to the [welcome page](../README.md?WT.mc_id=academic-114547-leestott)!
+*Head over to the next page and [choose your own Fabric lab](../03-labs-and-modules/README.md?WT.mc_id=academic-114547-leestott)!*
+
+*Or Go back to the [welcome page](../README.md?WT.mc_id=academic-114547-leestott)!*
