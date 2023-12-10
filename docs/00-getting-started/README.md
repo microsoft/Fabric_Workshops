@@ -62,7 +62,7 @@ Workspaces must be in Premium capacity to use Fabric. If you don't have access t
 
 You may notice that Fabric experiences look similar to other Microsoft data offerings. Fabric is built on Power BI and Azure Data Lake Storage, and includes capabilities from Azure Synapse Analytics, Azure Data Factory, Azure Databricks, and Azure Machine Learning. What makes Fabric unique is that it brings these capabilities together in a single, SaaS, integrated experience without the need for access to Azure resources.
 
-Head over to the next exercise to learn about [creating a fabric capacity](../01-create-fabric-capacity/README.md?WT.mc_id=academic-114547-leestott)!
+*Head over to the next exercise to learn about [creating a fabric capacity](../01-create-fabric-capacity/README.md?WT.mc_id=academic-114547-leestott)!*
 
 # Resources
 

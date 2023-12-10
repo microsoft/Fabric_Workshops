@@ -1,4 +1,4 @@
-## Learning Path 
+# Microsoft Learn Learning Paths
 
 | Learning Path | Length | Focus Area | Level |
 | ------ | ------ | ------ | ------ |
@@ -10,4 +10,4 @@
 |[Implement Real-Time Analytics with Microsoft Fabric](https://learn.microsoft.com/training/paths/explore-real-time-analytics-microsoft-fabric/?WT.mc_id=academic-114547-leestott) |3 hr 27 min | Microsoft Fabric,Data Analyst |Beginner|
 | [Manage the analytics development lifecycle](https://learn.microsoft.com/training/paths/manage-analytics-development-lifecycle/?WT.mc_id=academic-114547-leestott) | 2 hr 16 min | Microsoft Power Platform, Data Analyst | Intermediate |
 
-Go back to the [welcome page](../README.md/?WT.mc_id=academic-114547-leestott)!
+*Go back to the [welcome page](../README.md?WT.mc_id=academic-114547-leestott)!*
