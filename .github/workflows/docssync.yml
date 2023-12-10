@@ -27,7 +27,7 @@ jobs:
       - name: Update Docs Branch
         run: |
           git fetch origin
-          git checkout docs --
+          git checkout docs
           git pull
           git merge origin/main
-          git push origin docs --
+          git push origin docs
