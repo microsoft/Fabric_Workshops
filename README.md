@@ -21,10 +21,13 @@ This unit teaches how to create a capacity using Microsoft Azure, which is a clo
 
 This unit shows how to create a workspace using Microsoft Fabric, which is a web-based interface that allows users to access and manage their data and applications on Microsoft Fabric.
 
-### Choose your own Fabric Adventure
+### Choose your own Fabric Lab
 
 This is a selection of labs that explore the different capabilities and features of Microsoft Fabric, such as data ingestion, data transformation, data visualization, and data analysis.
 
+### Microsoft Learn Learning Paths
+
+This is a selection of learning paths that explore the different capabilities and features of Microsoft Fabric, such as data ingestion, data transformation, data visualization, and data analysis.
 
 To get started please, check out the repository [GitHub pages](https://microsoft.github.io/Fabric_Workshops/?WT.mc_id=academic-114547-leestott) website.
 
