@@ -5,10 +5,10 @@ In this exercise, you create a Microsoft Fabric Workspace that stores your Micro
 > [!NOTE]
 > In order to complete this exercise, you need the following:
 >
-> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric/?WT.mc_id=academic-114547-leestott). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans/?WT.mc_id=academic-114547-leestott).
-> - A Fabric subscription - [Create one for free](../01-create-fabric-capacity/README.md?id=create-a-microsoft-fabric-free-subscription/?WT.mc_id=academic-114547-leestott).
-> - A Fabric capacity - [Create one in the Azure portal](../01-create-fabric-capacity/README.md?id=provision-a-resource-in-the-azure-portal/?WT.mc_id=academic-114547-leestott).
-> - An Azure subscription (If you dont have access to [Fabric Trial Capacity](../01-create-fabric-capacity/README.md?id=enable-microsoft-fabric/?WT.mc_id=academic-114547-leestott)) - [Create a Azure Subscription](https://azure.microsoft.com/free/ai-services/?WT.mc_id=academic-114547-leestott).
+> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric-trial-on-your-existing-tenant&WT.mc_id=academic-114547-leestott). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans/?WT.mc_id=academic-114547-leestott).
+> - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/ai-services/?WT.mc_id=academic-114547-leestott).
+> - A Fabric subscription - [Create one for free](../01-create-fabric-capacity/README.md?id=create-a-microsoft-fabric-free-subscription&WT.mc_id=academic-114547-leestott).
+> - A Fabric capacity - [Create one in the Azure portal](../01-create-fabric-capacity/README.md?id=provision-a-resource-in-the-azure-portal&WT.mc_id=academic-114547-leestott).
 
 ## Create a new workspace
 
