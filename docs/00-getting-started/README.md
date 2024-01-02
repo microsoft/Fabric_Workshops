@@ -1,8 +1,8 @@
 # Getting Started with Microsoft Fabric
 
-Microsoft Fabric is an end-to-end analytics platform that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric provides a set of integrated services that enable you to ingest, store, process, and analyze data in a single environment.
+Microsoft Fabric is an end-to-end analytics platform that provides a single, integrated environment for data professionals and businesses to collaborate on data projects. Fabric provides a set of integrated services that enable you to ingest, store, process, and analyze data in a single environment.
 
-Microsoft Fabric provides tools for both citizen and professional data practitioners, and integrates with tools the business needs to make decisions.
+Microsoft Fabric provides tools for both citizen and professional data practitioners and integrates with tools the business needs to make decisions.
 
 Fabric includes the following services:
 
@@ -38,7 +38,7 @@ OneLake storage up to 1 TB.
 Users can create Fabric items and collaborate with others in the Fabric trial capacity. This includes:
 
 - Creating Workspaces (folders) for projects that support Fabric capabilities.
-- Sharing Fabric items, such as semantic models, warehouses, and notebooks, and collaborate on them with other Fabric users.
+- Sharing Fabric items, such as semantic models, warehouses, and notebooks, and collaborating on them with other Fabric users.
 - Creating analytics solutions using Fabric items.
 
 > [!NOTE]
@@ -73,7 +73,7 @@ The benefits of Fabric Capacity:
 
 ## Microsoft Fabric Workspace
 
-Fabric workspaces allows you to access all Fabric items (lakehouses, notebooks, pipelines, etc.).
+Fabric workspaces allow you to access all Fabric items (lakehouses, notebooks, pipelines, etc.).
 
 Workspaces must be in Premium capacity to use Fabric. If you don't have access to Premium capacity, you aren't able to use Fabric.
 
