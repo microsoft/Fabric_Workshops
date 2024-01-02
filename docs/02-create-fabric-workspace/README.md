@@ -27,14 +27,14 @@ For this exercise, you will use Microsoft Fabric to create a workspace.
 
     ![Screenshot from the Microsoft Fabric studio with the + New workspace highlighted in a red box.](./media/select-new-workspace.png)
 
-5. Preform the following tasks:
+5. Perform the following tasks:
     - Enter a unique name for your workspace.
     - Optionally, add a description.
     - Select **Advanced** to expand the hidden options.
 
     ![Screenshot from the Microsoft Fabric studio with the name, the description and the advanced menu highlighted in red boxes.](./media/new-workspace-simple.png)
 
-6. Preform the following tasks:
+6. Perform the following tasks:
     - Select **Fabric capacity** for the **License mode**.
     - Select the **Default storage format**. For example, **small semantic model storage format**.
     - Select your **Capacity** from the drop down menu.
@@ -42,7 +42,7 @@ For this exercise, you will use Microsoft Fabric to create a workspace.
 
     ![Screenshot from the Microsoft Fabric studio with the Fabric capacity, small semantic model storage format, capacity, Apply button highlighted in red boxes.](./media/new-workspace-advanced.png)
 
-7. Select **New** to create a fabric resources. For example, create a notebook.
+7. Select **New** to create fabric resources. For example, create a notebook.
     ![Screenshot from the Microsoft Fabric studio with the New button highlighted in a red box.](./media/select-new-fabric-resource.png)
 
 Congratulations! You have successfully created a fabric workspace and added your capacity to it. Now, you can enjoy the cool Microsoft Fabric capabilities.
