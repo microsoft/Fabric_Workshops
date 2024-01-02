@@ -1,6 +1,6 @@
 # Create a Microsoft Fabric Capacity from your Azure Subscription
 
-In this exercise, you create a Microsoft Fabric Capacity from an existing Azure Subscription that enables you to use Microsoft Fabric capabilities. If you have access to a trail account and your tenant admin has granted users access to the Fabric Trial you will have access to a FT1 Fabric Trail Capacity which should be sufficient capacity for your 60 day trial period.
+In this exercise, you create a Microsoft Fabric Capacity from an existing Azure Subscription that enables you to use Microsoft Fabric capabilities. If you have access to a trial account and your tenant admin has granted users access to the Fabric Trial you will have access to a FT1 Fabric Trail Capacity which should be sufficient capacity for your 60 day trial period.
 
 > [!NOTE]
 > In order to complete this exercise and create capacity from an Azure Subscription, you need the following:
@@ -37,7 +37,7 @@ For this exercise, you will use Azure Portal to provision a resource.
 3. Select **create** from the toolbar to initiate the capacity creation process.
     ![Screenshot from the Azure portal with the Create word highlighted in a red box.](./media/select-create-fabric.png)
 
-4. Preform the following tasks:
+4. Perform the following tasks:
 
     In the **Project details** section:
     | What | Comment|
