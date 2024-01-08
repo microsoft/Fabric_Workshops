@@ -1,12 +1,12 @@
-# Create a Microsoft Fabric Capacity from a Azure Subscription
+# Create a Microsoft Fabric Capacity from your Azure Subscription
 
-In this exercise, you create a Microsoft Fabric Capacity from an existing Azure Subscription that enables you to use Microsoft Fabric capabilities. If you have access to a trail account and your tenant admin has granted users access to the Fabric Trial you will have access to a FT1 Fabric Trail Capacity which should be sufficient capacity for your 60 day trial period.
+In this exercise, you create a Microsoft Fabric Capacity from an existing Azure Subscription that enables you to use Microsoft Fabric capabilities. If you have access to a trial account and your tenant admin has granted users access to the Fabric Trial you will have access to a FT1 Fabric Trail Capacity which should be sufficient capacity for your 60 day trial period.
 
 > [!NOTE]
 > In order to complete this exercise and create capacity from an Azure Subscription, you need the following:
 >
-> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric/?WT.mc_id=academic-114547-leestott). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans/?WT.mc_id=academic-114547-leestott).
-> - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/ai-services/?WT.mc_id=academic-114547-leestott).
+> - Access to Fabric on your tenant - [Enable Fabric](../00-getting-started/README.md?id=enable-microsoft-fabric-trial-on-your-existing-tenant&WT.mc_id=academic-114547-leestott). Note that you need a Microsoft work or school account to enable Fabric. If you don't have one, you can [sign up for a trial of Microsoft Office 365 E3 or higher](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans/?WT.mc_id=academic-114547-leestott).
+> - An Azure subscription (If you don't have access to [Fabric Trial Capacity](../00-getting-started/README.md?id=enable-microsoft-fabric-individual-user-trial&WT.mc_id=academic-114547-leestott)) - [Create one for free](https://azure.microsoft.com/free/ai-services/?WT.mc_id=academic-114547-leestott).
 >
 
 In this exercise, you will:
@@ -37,7 +37,7 @@ For this exercise, you will use Azure Portal to provision a resource.
 3. Select **create** from the toolbar to initiate the capacity creation process.
     ![Screenshot from the Azure portal with the Create word highlighted in a red box.](./media/select-create-fabric.png)
 
-4. Preform the following tasks:
+4. Perform the following tasks:
 
     In the **Project details** section:
     | What | Comment|

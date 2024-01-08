@@ -1,8 +1,8 @@
 # Getting Started with Microsoft Fabric
 
-Microsoft Fabric is an end-to-end analytics platform that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric provides a set of integrated services that enable you to ingest, store, process, and analyze data in a single environment.
+Microsoft Fabric is an end-to-end analytics platform that provides a single, integrated environment for data professionals and businesses to collaborate on data projects. Fabric provides a set of integrated services that enable you to ingest, store, process, and analyze data in a single environment.
 
-Microsoft Fabric provides tools for both citizen and professional data practitioners, and integrates with tools the business needs to make decisions.
+Microsoft Fabric provides tools for both citizen and professional data practitioners and integrates with tools the business needs to make decisions.
 
 Fabric includes the following services:
 
@@ -28,18 +28,22 @@ Fabric's experiences include:
 
 Fabric provides a comprehensive data analytics solution by unifying all these experiences on a single platform.
 
-## Enable Microsoft Fabric indvidual user Trial 
+## Enable Microsoft Fabric individual user Trial
+
 Microsoft Fabric is provided free of charge when you sign up for the Fabric trial. Your use of the Microsoft Fabric trial includes access to the Fabric product experiences and the resources to create and host Fabric items. The Fabric trial lasts for 60 days.
 You get the following:
 Full access to all of the Fabric experiences and features.
 OneLake storage up to 1 TB.
-Users can create Fabric items and collaborate with others in the Fabric trial capacity. This includes:
-Creating Workspaces (folders) for projects that support Fabric capabilities.
-Sharing Fabric items, such as semantic models, warehouses, and notebooks, and collaborate on them with other Fabric users.
-Creating analytics solutions using Fabric items.
 
-When you start a Fabric trial, your trial capacity has 64 capacity units (CU). You don't have access to your capacity until you put something into it. To begin using your Fabric trial, add items to My workspace or create a new workspace. Assign that workspace to your trial capacity using the Trial license mode, and then all the items in that workspace are saved and executed in that capacity.
-For more details see [documentation here](https://learn.microsoft.com/en-gb/fabric/get-started/fabric-trial#administer-user-access-to-a-fabric-preview-trial/?WT.mc_id=academic-114547-leestott)
+Users can create Fabric items and collaborate with others in the Fabric trial capacity. This includes:
+
+- Creating Workspaces (folders) for projects that support Fabric capabilities.
+- Sharing Fabric items, such as semantic models, warehouses, and notebooks, and collaborating on them with other Fabric users.
+- Creating analytics solutions using Fabric items.
+
+> [!NOTE]
+> When you start a Fabric trial, your trial capacity has 64 capacity units (CU). You don't have access to your capacity until you put something into it. To begin using your Fabric trial, add items to My workspace or create a new workspace. Assign that workspace to your trial capacity using the Trial license mode, and then all the items in that workspace are saved and executed in that capacity.
+> For more details see [documentation here](https://learn.microsoft.com/fabric/get-started/fabric-trial#administer-user-access-to-a-fabric-preview-trial/?WT.mc_id=academic-114547-leestott).
 
 ## Enable Microsoft Fabric Trial on your existing tenant
 
@@ -51,7 +55,7 @@ The permissions required to enable Fabric are either:
 - *Power Platform admin*
 - *Microsoft 365 admin*
 
-Fabric can be enabled at the tenant level or capacity level, meaning that it can be enabled for the entire organization or for specific groups of users. To learn how to enable Fabric for your organization, see the [documentation here](https://learn.microsoft.com/en-gb/fabric/admin/fabric-switch#enable-for-your-tenant/?WT.mc_id=academic-114547-leestott).
+Fabric can be enabled at the tenant level or capacity level, meaning that it can be enabled for the entire organization or for specific groups of users. To learn how to enable Fabric for your organization, see the [documentation here](https://learn.microsoft.com/fabric/admin/fabric-switch#enable-for-your-tenant/?WT.mc_id=academic-114547-leestott).
 
 > [!NOTE]
 > You can't modify or access the settings to enable Microsoft Fabric if you do not have any of the listed permissions. Please, contact your administrator to confirm that Microsoft Fabric is enabled in your tenant.
@@ -69,7 +73,7 @@ The benefits of Fabric Capacity:
 
 ## Microsoft Fabric Workspace
 
-Fabric workspaces allows you to access all Fabric items (lakehouses, notebooks, pipelines, etc.).
+Fabric workspaces allow you to access all Fabric items (lakehouses, notebooks, pipelines, etc.).
 
 Workspaces must be in Premium capacity to use Fabric. If you don't have access to Premium capacity, you aren't able to use Fabric.
 
